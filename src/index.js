@@ -5,14 +5,6 @@ import Pad from "./components/calculatorPad";
 
 import "./styles.css";
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <h1>Hello CodeSandbox</h1>
-//       <h2>Start editing to see some magic happen!Wee</h2>
-//     </div>
-//   );
-// }
 class App extends React.Component {
   componentDidMount() {
     document.body.style.backgroundColor = "azure";
